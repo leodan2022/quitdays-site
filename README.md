@@ -6,4 +6,4 @@ iOS アプリ「QuitDays — 禁煙・禁酒カウンター」のランディン
 - サポート: https://leodan2022.github.io/quitdays-site/support.html
 - プライバシーポリシー: https://leodan2022.github.io/quitdays-site/privacy.html
 
-ページは `build_site.py` 相当のスクリプトで生成（本文は各言語ごとに手書き）。アプリ本体のリポジトリは private（leodan2022/QuitDays）。
+ページは `python3 tools/build_site.py` で生成（文面は tools/site_copy.py）（本文は各言語ごとに手書き）。アプリ本体のリポジトリは private（leodan2022/QuitDays）。
